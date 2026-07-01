@@ -1,4 +1,4 @@
-<footer class="legal-disclaimer" role="contentinfo">
+<footer class="legal-disclaimer">
   <p class="lead">
     <strong>Unofficial, educational-only.</strong> This is an independent learning project—not affiliated with, endorsed by, or supported by WhatsApp or Meta.
   </p>
